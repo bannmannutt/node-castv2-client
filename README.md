@@ -97,7 +97,7 @@ function ondeviceup(host) {
 }
 ```
 
-###Other examples
+### Other examples
 
 Check the examples directory.
 
